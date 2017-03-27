@@ -1,0 +1,10 @@
+C:\Users\Aakriti Gupta\Desktop\Aakriti notes\PurusDigital\CheapPaymentGateway\bin\Debug\CheapPaymentGateway.dll
+C:\Users\Aakriti Gupta\Desktop\Aakriti notes\PurusDigital\CheapPaymentGateway\bin\Debug\CheapPaymentGateway.pdb
+C:\Users\Aakriti Gupta\Desktop\Aakriti notes\PurusDigital\CheapPaymentGateway\obj\Debug\CheapPaymentGateway.dll
+C:\Users\Aakriti Gupta\Desktop\Aakriti notes\PurusDigital\CheapPaymentGateway\obj\Debug\CheapPaymentGateway.pdb
+C:\Users\Aakriti Gupta\Desktop\Aakriti notes\PurusDigital\CheapPaymentGateway\obj\Debug\CheapPaymentGateway.csprojResolveAssemblyReference.cache
+C:\Users\Aakriti Gupta\Desktop\Aakriti notes\PaymentApp\CheapPaymentGateway\bin\Debug\CheapPaymentGateway.dll
+C:\Users\Aakriti Gupta\Desktop\Aakriti notes\PaymentApp\CheapPaymentGateway\bin\Debug\CheapPaymentGateway.pdb
+C:\Users\Aakriti Gupta\Desktop\Aakriti notes\PaymentApp\CheapPaymentGateway\obj\Debug\CheapPaymentGateway.csprojResolveAssemblyReference.cache
+C:\Users\Aakriti Gupta\Desktop\Aakriti notes\PaymentApp\CheapPaymentGateway\obj\Debug\CheapPaymentGateway.dll
+C:\Users\Aakriti Gupta\Desktop\Aakriti notes\PaymentApp\CheapPaymentGateway\obj\Debug\CheapPaymentGateway.pdb

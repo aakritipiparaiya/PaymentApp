@@ -1,0 +1,10 @@
+C:\Users\Aakriti Gupta\Desktop\Aakriti notes\PurusDigital\PremiumPaymentGateway\bin\Debug\PremiumPaymentGateway.dll
+C:\Users\Aakriti Gupta\Desktop\Aakriti notes\PurusDigital\PremiumPaymentGateway\bin\Debug\PremiumPaymentGateway.pdb
+C:\Users\Aakriti Gupta\Desktop\Aakriti notes\PurusDigital\PremiumPaymentGateway\obj\Debug\PremiumPaymentGateway.dll
+C:\Users\Aakriti Gupta\Desktop\Aakriti notes\PurusDigital\PremiumPaymentGateway\obj\Debug\PremiumPaymentGateway.pdb
+C:\Users\Aakriti Gupta\Desktop\Aakriti notes\PurusDigital\PremiumPaymentGateway\obj\Debug\PremiumPaymentGateway.csprojResolveAssemblyReference.cache
+C:\Users\Aakriti Gupta\Desktop\Aakriti notes\PaymentApp\PremiumPaymentGateway\bin\Debug\PremiumPaymentGateway.dll
+C:\Users\Aakriti Gupta\Desktop\Aakriti notes\PaymentApp\PremiumPaymentGateway\bin\Debug\PremiumPaymentGateway.pdb
+C:\Users\Aakriti Gupta\Desktop\Aakriti notes\PaymentApp\PremiumPaymentGateway\obj\Debug\PremiumPaymentGateway.csprojResolveAssemblyReference.cache
+C:\Users\Aakriti Gupta\Desktop\Aakriti notes\PaymentApp\PremiumPaymentGateway\obj\Debug\PremiumPaymentGateway.dll
+C:\Users\Aakriti Gupta\Desktop\Aakriti notes\PaymentApp\PremiumPaymentGateway\obj\Debug\PremiumPaymentGateway.pdb

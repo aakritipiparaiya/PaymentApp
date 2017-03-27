@@ -1,0 +1,10 @@
+C:\Users\Aakriti Gupta\Desktop\Aakriti notes\PurusDigital\ExpensivePaymentGateway\bin\Debug\ExpensivePaymentGateway.dll
+C:\Users\Aakriti Gupta\Desktop\Aakriti notes\PurusDigital\ExpensivePaymentGateway\bin\Debug\ExpensivePaymentGateway.pdb
+C:\Users\Aakriti Gupta\Desktop\Aakriti notes\PurusDigital\ExpensivePaymentGateway\obj\Debug\ExpensivePaymentGateway.dll
+C:\Users\Aakriti Gupta\Desktop\Aakriti notes\PurusDigital\ExpensivePaymentGateway\obj\Debug\ExpensivePaymentGateway.pdb
+C:\Users\Aakriti Gupta\Desktop\Aakriti notes\PurusDigital\ExpensivePaymentGateway\obj\Debug\ExpensivePaymentGateway.csprojResolveAssemblyReference.cache
+C:\Users\Aakriti Gupta\Desktop\Aakriti notes\PaymentApp\ExpensivePaymentGateway\bin\Debug\ExpensivePaymentGateway.dll
+C:\Users\Aakriti Gupta\Desktop\Aakriti notes\PaymentApp\ExpensivePaymentGateway\bin\Debug\ExpensivePaymentGateway.pdb
+C:\Users\Aakriti Gupta\Desktop\Aakriti notes\PaymentApp\ExpensivePaymentGateway\obj\Debug\ExpensivePaymentGateway.csprojResolveAssemblyReference.cache
+C:\Users\Aakriti Gupta\Desktop\Aakriti notes\PaymentApp\ExpensivePaymentGateway\obj\Debug\ExpensivePaymentGateway.dll
+C:\Users\Aakriti Gupta\Desktop\Aakriti notes\PaymentApp\ExpensivePaymentGateway\obj\Debug\ExpensivePaymentGateway.pdb
